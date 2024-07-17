@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oleg</h1>
-<h3 align="center">A passionate self taught developer from Estonia 🇪🇪</h3>
+<h1 align="start">Hi 👋, I'm Oleg</h1>
+<h3 align="start">A passionate self taught developer from Estonia 🇪🇪</h3>
 
 - 💻 I’m currently working on my own project [Turnikas](https://github.com/K444RU/turnikas_back_end)
 
