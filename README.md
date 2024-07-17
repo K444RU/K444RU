@@ -1,12 +1,12 @@
 <img src="https://github.com/K444RU/K444RU/blob/main/Cover.png">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K444RU&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
-![Olegs's GitHub stats](https://github-readme-stats.vercel.app/api?username=K444RU&theme=ocean_dark&show_icons=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=K444RU&theme=ocean_dark&hide_border=false)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K444RU&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br>
+![Olegs's GitHub stats](https://github-readme-stats.vercel.app/api?username=K444RU&theme=ocean_dark&hide_border=true&show_icons=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=K444RU&theme=ocean_dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=K444RU&theme=ocean_dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=K444RU&theme=ocean_dark&no-frame=true&no-bg=true&margin-w=4)
+
 
 # 💻 Tech Stack:
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
