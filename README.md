@@ -3,10 +3,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=K444RU&theme=ocean_dark&hide_border=false)
 ![Olegs's GitHub stats](https://github-readme-stats.vercel.app/api?username=K444RU&theme=ocean_dark&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K444RU&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K444RU&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=K444RU&theme=ocean_dark&hide_border=false)
 
 
 ## 🏆 GitHub Trophies
